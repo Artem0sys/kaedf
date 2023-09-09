@@ -1,0 +1,12 @@
+.gfg{
+    text-align: right;
+    display: flex;
+    text-align: center;
+}
+.wav{
+    float: left;
+}
+.avd{
+    float: right;
+    background-color: rgb(195, 197, 197);
+}
